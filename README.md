@@ -1,1 +1,1 @@
-This is voice assistant project 
+This is a voice assistant project 
